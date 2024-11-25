@@ -1,3 +1,3 @@
-# portfolio-joao
+# Portfolio  
 
-Portfolio do João
+Exemplo de página de portfolo, feita com html, css e js
